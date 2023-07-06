@@ -1,0 +1,25 @@
+.sidebar-section-wrapper.sidebar-section[data-section-name="tags"] {
+    display: none;
+}
+
+.sidebar-section-wrapper.sidebar-section[data-section-name="forum-sponsors"] ul {
+    li .sidebar-row {
+        height: 4.2em;
+    }
+    .icon {
+        display: none;
+    }
+    li:nth-child(1) .sidebar-section-link-content-text {
+        background-image: url($sponsor_logo_1);
+    }
+    li:nth-child(2) .sidebar-section-link-content-text {
+        background-image: url($sponsor_logo_2);
+    }
+    .sidebar-section-link-content-text {
+        background-size: contain;
+        background-repeat: no-repeat;
+        color:transparent;
+        width: 210px;
+        height: 50px;
+    }
+}
