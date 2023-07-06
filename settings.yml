@@ -1,0 +1,6 @@
+logo_1:
+  type: upload
+  default: placeholder
+logo_2:
+  type: upload
+  default: placeholder

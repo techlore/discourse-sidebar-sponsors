@@ -1,0 +1,6 @@
+en:
+  theme_metadata:
+    description: This is where you upload logos for Forum Sponsors. Links to sponsors are changed by editing the sidebar directly.
+    settings:
+      logo_1: A 420x100 image which replaces the first link in the "Forum Sponsors" section. Must not be empty.
+      logo_2: A 420x100 image which replaces the second link in the "Forum Sponsors" section. Must not be empty.

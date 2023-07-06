@@ -4,7 +4,6 @@
   "license_url": null,
   "about_url": null,
   "assets": {
-    "sponsor_logo_1": "assets/sponsor_logo_1.png",
-    "sponsor_logo_2": "assets/sponsor_logo_2.png"
+    "placeholder": "assets/placeholder.png"
   }
 }

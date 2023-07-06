@@ -1,11 +1,11 @@
 # Discourse Sidebar Sponsors
 
-Replace `sponsor_logo_1.png` and `sponsor_logo_2.png` with a **420 x 100** PNG logo. These images will replace the first and second links in the "Forum Sponsors" custom section respectively.
-
-The links for the sponsor logos themselves are edited in Discourse:
+This component allows you to replace sidebar links with images. The links are edited on the sidebar directly, and a maximum of two links are allowed:
 
 ![](/docs/sidebar_edit.png)
 
 ![](/docs/sidebar_editor.png)
 
-When changes to the logos are made here on GitHub, update the forum by navigating to `/admin/customize/themes` -> **Components** -> **Techlore Sidebar Sponsors** and selecting **Check for Updates**.
+The links for the sponsor logos themselves are edited in Discourse at https://discuss.techlore.tech/admin/customize/themes/17:
+
+![](/docs/logo_upload.png)
