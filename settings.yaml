@@ -1,0 +1,6 @@
+logo_1:
+  type: upload
+  default: sponsor_logo_1
+logo_2:
+  type: upload
+  default: sponsor_logo_2
